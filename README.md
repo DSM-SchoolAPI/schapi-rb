@@ -1,4 +1,4 @@
-# Schapi-Go
+# Schapi-RB
 
 Schapi RB는 Schapi의 Ruby 버전으로  
 Ruby 기반의 급식, 학사일정 파싱 라이브러리입니다.  
