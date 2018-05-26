@@ -24,7 +24,7 @@ Kind = Schapi::Kind
 Region = Schapi::Region
 
 api := SchoolAPI.new(Kind.HIGH, Region.DAEJEON, "G100000170")
-fmt.Println(api.get_monthly_menus(2018, 5)[23].lunch)
+puts api.get_monthly_menus(2018, 5)[23].lunch
 ```
 
 ## 3. ㅇㅅㅇ
